@@ -1,0 +1,15 @@
+#item{
+    color: darkorange;
+    
+}
+.container{
+    width: 50%;
+}
+.center{
+    width: 50%;
+    margin: 0 auto;
+}
+.bar{
+    border-left: 10px solid orange;
+    padding-left: 5px
+}
